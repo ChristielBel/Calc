@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="input_number"> </string>
+    <string name="btnErase">AC</string>
+    <string name="btnPercentage">%</string>
+    <string name="btnErase2">⌫</string>
+    <string name="btnDivide">÷</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btnMultiply">×</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btnSubtraction">−</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btnFold">+</string>
+    <string name="btnPlusMinus">+/-</string>
+    <string name="btn_0">0</string>
+    <string name="btnDote">.</string>
+    <string name="btnEquals">=</string>
+</resources>
